@@ -1,7 +1,8 @@
 # SI-GuidedProject-102161-1658942976
 Effective Heart Disease Prediction Using IBM Auto AI Service
 
-completed the following courses
+completed the following courses:
+
   Getting Started with Enterprise Data Science: 
   https://www.credly.com/badges/2b6169ed-89e8-458e-af4a-a8492d04ded6/public_url
   
