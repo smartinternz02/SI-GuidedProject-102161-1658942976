@@ -13,4 +13,4 @@ completed the following courses:
   https://www.credly.com/badges/cc1d7115-8a14-4ff1-afad-da12923ebbc0/public_url
   
   Applied Data Science with Python:
-  https://www.credly.com/badges/579d997d-3f55-40f8-8d3c-910ae72ae4da/public_url
+  https://www.credly.com/badges/0205692c-fca3-482e-891c-909260469905/public_url
